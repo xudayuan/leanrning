@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d05e7565-76b5-4b68-b1cc-1a6af5222ecf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leanrning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jbase/jbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jbase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jbase/src/main/java/me/xuyupeng/learning/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jbase/src/test/java/me/xuyupeng/learning/AppTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/jbase/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1609973147">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jbase/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jbase/src/main/java/me/xuyupeng/learning/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://D:/java/jdk1.8/src.zip!/java/lang/ThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="367" column="55" selection-start-line="367" selection-start-column="55" selection-end-line="367" selection-end-column="55" />
+              <folding>
+                <element signature="docComment;class#ThreadLocal#0" />
+                <element signature="docComment;field#threadLocalHashCode#0;class#ThreadLocal#0" />
+                <element signature="docComment;field#nextHashCode#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#nextHashCode#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#initialValue#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#withInitial#0;class#ThreadLocal#0" />
+                <element signature="method#withInitial#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#ThreadLocal#0;class#ThreadLocal#0" />
+                <element signature="method#ThreadLocal#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#get#0;class#ThreadLocal#0" />
+                <element signature="method#get#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#setInitialValue#0;class#ThreadLocal#0" />
+                <element signature="method#setInitialValue#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#set#0;class#ThreadLocal#0" />
+                <element signature="method#set#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#remove#0;class#ThreadLocal#0" />
+                <element signature="method#remove#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#getMap#0;class#ThreadLocal#0" />
+                <element signature="e#7765#7766#0" expanded="true" />
+                <element signature="e#7802#7803#0" expanded="true" />
+                <element signature="docComment;method#childValue#0;class#ThreadLocal#0" />
+                <element signature="docComment;class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
+                <element signature="class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
+                <element signature="method#SuppliedThreadLocal#0;class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
+                <element signature="docComment;field#value#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;field#INITIAL_CAPACITY#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;field#table#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;field#size#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#setThreshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#nextIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#prevIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#ThreadLocalMap#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="e#15456#15514#0" />
+                <element signature="docComment;method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#replaceStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#replaceStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="e#17888#17945#0" />
+                <element signature="e#18418#18480#0" />
+                <element signature="e#18703#18745#0" />
+                <element signature="e#19496#19550#0" />
+                <element signature="docComment;method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="e#21511#21562#0" />
+                <element signature="docComment;method#cleanSomeSlots#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#cleanSomeSlots#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="docComment;method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+                <element signature="method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.8/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3124">
+              <caret line="181" column="31" selection-start-line="181" selection-start-column="31" selection-end-line="181" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jbase/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leanrning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leanrning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leanrning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leanrning" type="462c0819:PsiDirectoryNode" />
+              <item name="jbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leanrning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leanrning" type="462c0819:PsiDirectoryNode" />
+              <item name="jbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leanrning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leanrning" type="462c0819:PsiDirectoryNode" />
+              <item name="jbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leanrning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leanrning" type="462c0819:PsiDirectoryNode" />
+              <item name="jbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leanrning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leanrning" type="462c0819:PsiDirectoryNode" />
+              <item name="jbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leanrning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leanrning" type="462c0819:PsiDirectoryNode" />
+              <item name="jbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d05e7565-76b5-4b68-b1cc-1a6af5222ecf" name="Default Changelist" comment="" />
+      <created>1585715234515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585715234515</updated>
+      <workItem from="1585715236311" duration="3414000" />
+      <workItem from="1585788460092" duration="1912000" />
+      <workItem from="1585820792864" duration="586000" />
+      <workItem from="1585878140258" duration="1236000" />
+      <workItem from="1585898361837" duration="594000" />
+      <workItem from="1585996867600" duration="619000" />
+      <workItem from="1586146399451" duration="641000" />
+      <workItem from="1586223991316" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9620000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27933383" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Regex Tester" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32935154" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Module Dependencies" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="ASMPlugin" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/java/jdk1.8/src.zip!/java/lang/ref/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jbase/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jbase/src/main/java/me/xuyupeng/learning/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3124">
+          <caret line="181" column="31" selection-start-line="181" selection-start-column="31" selection-end-line="181" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="367" column="55" selection-start-line="367" selection-start-column="55" selection-end-line="367" selection-end-column="55" />
+          <folding>
+            <element signature="docComment;class#ThreadLocal#0" />
+            <element signature="docComment;field#threadLocalHashCode#0;class#ThreadLocal#0" />
+            <element signature="docComment;field#nextHashCode#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#nextHashCode#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#initialValue#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#withInitial#0;class#ThreadLocal#0" />
+            <element signature="method#withInitial#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#ThreadLocal#0;class#ThreadLocal#0" />
+            <element signature="method#ThreadLocal#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#get#0;class#ThreadLocal#0" />
+            <element signature="method#get#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#setInitialValue#0;class#ThreadLocal#0" />
+            <element signature="method#setInitialValue#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#set#0;class#ThreadLocal#0" />
+            <element signature="method#set#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#remove#0;class#ThreadLocal#0" />
+            <element signature="method#remove#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#getMap#0;class#ThreadLocal#0" />
+            <element signature="e#7765#7766#0" expanded="true" />
+            <element signature="e#7802#7803#0" expanded="true" />
+            <element signature="docComment;method#childValue#0;class#ThreadLocal#0" />
+            <element signature="docComment;class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
+            <element signature="class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
+            <element signature="method#SuppliedThreadLocal#0;class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
+            <element signature="docComment;field#value#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;field#INITIAL_CAPACITY#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;field#table#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;field#size#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#setThreshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#nextIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#prevIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#ThreadLocalMap#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="e#15456#15514#0" />
+            <element signature="docComment;method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#replaceStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#replaceStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="e#17888#17945#0" />
+            <element signature="e#18418#18480#0" />
+            <element signature="e#18703#18745#0" />
+            <element signature="e#19496#19550#0" />
+            <element signature="docComment;method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="e#21511#21562#0" />
+            <element signature="docComment;method#cleanSomeSlots#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#cleanSomeSlots#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="docComment;method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
